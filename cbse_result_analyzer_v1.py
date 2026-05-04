@@ -1,8 +1,5 @@
 #PROJECT::: CBSE RESULT ANALYSER
-#RAXIT GUPTA, SAHEEL UPADHYAY, ANUBRATA SAHA
-#CLASS XII-A
-#2024-25
-#Kendriya Vidyalaya Ballygunge
+#RAXIT GUPTA
 import csv
 f=open('twelve.txt')
 raw=f.readlines()
